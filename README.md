@@ -31,7 +31,6 @@ This is an Admin-side project built to simulate real-world job management system
 - **Node.js** – Backend runtime
 - **Vite** – Ultra-fast development build tool
 
----
 
 ## 🔗 Live Demo
 
