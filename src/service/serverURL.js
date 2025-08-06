@@ -1,0 +1,1 @@
+export const serverURL="https://hirehub-crud-backend.onrender.com"
