@@ -4,7 +4,7 @@ A React-based Job Management Portal where admins can seamlessly manage job listi
 It is designed to streamline the process of adding, updating, deleting and managing job listings with ease.  
 Built with reusable components for better scalability and maintainability, and styled using React-Bootstrap for a responsive, modern UI.
 
-## 🚀 Project Purpose
+## Project Purpose
 
 This is an Admin-side project built to simulate real-world job management systems. It demonstrates proficiency in:
 
@@ -13,7 +13,7 @@ This is an Admin-side project built to simulate real-world job management system
 - API integration
 
 
-## ✨ Features
+## Features
 
 - Full CRUD Functionality (Add / View / Update / Delete Jobs)
 - Component Reusability (Same modal used to Add & Edit job)
@@ -22,7 +22,7 @@ This is an Admin-side project built to simulate real-world job management system
 - Fast Development using Vite + React
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** – Component-based UI
 - **React-Bootstrap** – Layout, Component Styling & Responsiveness
