@@ -4,8 +4,6 @@ A React-based Job Management Portal where admins can seamlessly manage job listi
 It is designed to streamline the process of adding, updating, deleting and managing job listings with ease.  
 Built with reusable components for better scalability and maintainability, and styled using React-Bootstrap for a responsive, modern UI.
 
----
-
 ## 🚀 Project Purpose
 
 This is an Admin-side project built to simulate real-world job management systems. It demonstrates proficiency in:
@@ -47,5 +45,6 @@ This is an Admin-side project built to simulate real-world job management system
 - [Backend Repo](https://github.com/FarsanaPH/HireHub-CRUD-backend)
 
 ---
-> "Powerful things can be built with even mock APIs — all it takes is logic, structure, and purpose!" — *Thanks for visiting the project.* 😊
+> "Powerful things can be built with even mock APIs — all it takes is logic, structure, and purpose!"
+> *Thanks for visiting the project.* 😊
 
