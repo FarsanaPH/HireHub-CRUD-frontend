@@ -17,7 +17,7 @@ This is an Admin-side project built to simulate real-world job management system
 
 - Full CRUD Functionality (Add / View / Update / Delete Jobs)
 - Component Reusability (Same modal used to Add & Edit job)
-- Instant Updated Preview on Dashboard from Backend
+- Instant Updated Preview from Backend on Dashboard
 - Responsive UI using Bootstrap + React-Bootstrap
 - Fast Development using Vite + React
 
