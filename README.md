@@ -45,11 +45,10 @@ This is an Admin-side project built to simulate real-world job management system
 - [Backend Repo](https://github.com/FarsanaPH/HireHub-CRUD-backend)
 
 
-## 📌 Note
-
-This project uses a **mock API** powered by JSON Server. It’s designed to mimic real-world functionality for learning and demonstration purposes.
 
 ---
+📌 **Note:** This project uses a **mock API** powered by JSON Server. It’s designed to mimic real-world functionality for learning and demonstration purposes.
+
 > "Even mock APIs can build powerful ideas — all it takes is logic, structure, and purpose!"
 > *Thanks for visiting the project.* 😊
 
