@@ -35,7 +35,7 @@ This is an Admin-side project built to simulate real-world job management system
 ## 🔗 Live Demo
 
 - **Frontend**: [View on Vercel](https://hirehub-crud-frontend.vercel.app/)
-- **Backend** (Mock API via JSON Server): [View on Render](https://hirehub-crud-backend.onrender.com)
+- **Backend**(Mock API via JSON Server): [View on Render](https://hirehub-crud-backend.onrender.com)
 
 
 ## 📁 GitHub Repositories
@@ -48,5 +48,5 @@ This is an Admin-side project built to simulate real-world job management system
 ---
 
 > "Even mock APIs can build powerful ideas — all it takes is logic, structure, and purpose!"
-> *Thanks for visiting the project.* 😊
+> *Thanks for visiting the project.* 😊
 
